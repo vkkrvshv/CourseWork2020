@@ -96,7 +96,7 @@ z-index: 2;
     }
 }
 
-@media (max-width:1200px) and (orientation:landscape){
+@media (max-width:1200px) and (orientation:landscape)and(max-height:1200px){
     .w1{
         margin-left:-4.8%!important;
     }
