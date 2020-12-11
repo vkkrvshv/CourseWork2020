@@ -38,11 +38,11 @@ z-index: 2;
 
 @media(max-width:2000px){
 	.logo{
-	margin:3% 0% 0% 50%!important;
+	margin:3% 0% 0% 70%!important;
 	}
 	.headertext3{
 	margin-top:6%!important;
-	margin-left:800px!important;
+	margin-left:1200px!important;
 	}
 }
 
