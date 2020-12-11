@@ -36,17 +36,7 @@ max-width: 1200px;
 z-index: 2;
 }
 
-@media(max-width:2500px){
-    .logo{
-        margin:2% 0% 0% 50%!important;
-    }
-    .headertext3{
-        margin-top:-3.5%!important;
-        margin-left:1000px!important;
-    }
-}
-
-@media(max-width:1500px){
+@media(max-width:1400px){
     .text h2{
         margin:75% 0 0 70%!important;
         width:100%!important;
