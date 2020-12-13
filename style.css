@@ -216,6 +216,11 @@ ul li ul{
     display: none;
 }
 
+ul li ul li:hover{
+    background: #412b4a;
+    opacity: 0.95;
+}
+
 .header {
     background-color: #352b4a;
     min-width:100%;
